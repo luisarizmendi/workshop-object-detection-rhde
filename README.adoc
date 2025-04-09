@@ -1,1 +1,1 @@
-[=NEW URL FOR THIS WORKSHOP](https://github.com/luisarizmendi/workshop-moving-ai-to-the-edge)
+NEW URL FOR THIS WORKSHOP: https://github.com/luisarizmendi/workshop-moving-ai-to-the-edge
